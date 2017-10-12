@@ -1,0 +1,13 @@
+{
+  "name": "onlineShop",
+  "version": "1.0.0",
+  "description": "Membuat onlineshop",
+  "main": "index.js",
+  "author": "FazaCapt",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "mongoose": "^4.12.1",
+    "nodemon": "^1.12.1"
+  }
+}
